@@ -1,0 +1,94 @@
+var bk_results = {
+	"campaigns": [
+		{
+			"campaign": 221330,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1021885,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 221329,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1024818,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 244991,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 244990,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 244992,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 244993,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 239945,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 239948,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 1046034,
+					"timestamp": 1654045316
+				}
+			]
+		},
+		{
+			"campaign": 221243,
+			"timestamp": 1654045456,
+			"categories": [
+				{
+					"categoryID": 997862,
+					"timestamp": 1654045316
+				}
+			]
+		}
+	]
+};
